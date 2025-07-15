@@ -1,0 +1,17 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual spouse labor income	Inverse hyperbolic sine transformation of annual spouse labor income	Inverse hyperbolic sine transformation of annual spouse labor income	Inverse hyperbolic sine transformation of annual spouse labor income	Inverse hyperbolic sine transformation of annual spouse labor income	Inverse hyperbolic sine transformation of annual spouse labor income
+							
+lift_most	BI Score	0.499***		0.380**		0.362**	
+		(0.173)		(0.176)		(0.180)	
+hor_pay_normal	HOR Score (standardized)		0.905***		0.685**		0.706**
+			(0.303)		(0.307)		(0.311)
+o.marst	Married = o,			-			
+							
+							
+Observations		822	822	822	822	822	822
+R-squared		0.116	0.118	0.127	0.128	0.145	0.143
+Demog		Yes	Yes	Yes	Yes	Yes	Yes
+Cog and Edu		No	No	Yes	Yes	Yes	Yes
+NonCog and Pref		No	No	No	No	Yes	Yes
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

@@ -1,0 +1,21 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)
+	male	male	male	male	female	female	female
+VARIABLES	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income
+							
+1.bi_trio	-0.195				-0.615*		
+	(0.316)				(0.346)		
+2.bi_trio	0.000				0.295		
+	(0.327)				(0.354)		
+lift_numwins		0.068				0.138	
+		(0.129)				(0.137)	
+1.hor_pay_trio			0.161				0.769**
+			(0.333)				(0.380)
+2.hor_pay_trio			0.779**				0.900**
+			(0.307)				(0.364)
+task2_level				0.207***			
+				(0.067)			
+							
+Observations	938	938	938	938	822	822	822
+R-squared	0.048	0.047	0.054	0.055	0.154	0.148	0.152
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

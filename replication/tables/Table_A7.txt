@@ -1,0 +1,78 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income
+							
+lift_most	BI Score	-0.367**		-0.462***		-0.473***	
+		(0.179)		(0.176)		(0.182)	
+hor_pay_normal	HOR Score (standardized)		0.257		-0.031		-0.006
+			(0.285)		(0.289)		(0.289)
+2.age_grp	age_grp = 2, Age 55-59	-0.113	-0.078	-0.129	-0.106	-0.056	-0.012
+		(0.399)	(0.398)	(0.392)	(0.392)	(0.393)	(0.393)
+3.age_grp	age_grp = 3, Age 60-65	-2.277***	-2.258***	-2.173***	-2.153***	-2.165***	-2.098***
+		(0.473)	(0.473)	(0.463)	(0.463)	(0.465)	(0.464)
+chinese	Chinese	1.720***	1.612***	1.893***	1.828***	1.906***	1.832***
+		(0.592)	(0.600)	(0.559)	(0.570)	(0.562)	(0.580)
+marst	Married	-0.980	-1.045	-1.339	-1.405	-1.152	-1.227
+		(0.859)	(0.860)	(0.863)	(0.868)	(0.843)	(0.837)
+nliving	Number of Children	-0.056	-0.074	0.098	0.076	0.123	0.075
+		(0.149)	(0.149)	(0.149)	(0.149)	(0.152)	(0.151)
+sp_age2	Spouse's age	0.027	0.032	0.036	0.040	0.039	0.046
+		(0.039)	(0.040)	(0.038)	(0.038)	(0.038)	(0.038)
+sp_age99	Missing spouse's age or non-married	-0.912	-1.103	-1.523	-1.676	-1.515	-1.863
+		(1.708)	(1.721)	(1.651)	(1.670)	(1.641)	(1.653)
+edu_ter	Tertiary education			1.810***	1.841***	1.480***	1.535***
+				(0.331)	(0.333)	(0.348)	(0.347)
+ist	IST score			0.060	0.042	0.044	0.028
+				(0.039)	(0.039)	(0.039)	(0.039)
+eye_normal	Standardized values of eye_total			0.722*	0.642*	0.705*	0.590
+				(0.371)	(0.374)	(0.372)	(0.377)
+fp_long	Financial Planning Horizon					-0.084	-0.087
+						(0.309)	(0.311)
+risk_general	Risk tolerance					0.151**	0.161**
+						(0.065)	(0.065)
+self_efficacy	Self-efficacy					0.110	0.120*
+						(0.071)	(0.072)
+optimism	Personal Optimism					0.086	0.080
+						(0.070)	(0.071)
+time2	Time taken to complete Money Request Game						0.442
+							(9.379)
+2.rubin_position_1	rubin_position_1 = 2, B						0.502
+							(0.494)
+3.rubin_position_1	rubin_position_1 = 3, C						0.244
+							(0.514)
+4.rubin_position_1	rubin_position_1 = 4, D						0.700
+							(0.493)
+5.rubin_position_1	rubin_position_1 = 5, E						0.342
+							(0.505)
+2.rubin_position_2	rubin_position_2 = 2, B						0.906*
+							(0.510)
+3.rubin_position_2	rubin_position_2 = 3, C						0.346
+							(0.504)
+4.rubin_position_2	rubin_position_2 = 4, D						0.087
+							(0.496)
+5.rubin_position_2	rubin_position_2 = 5, E						-0.047
+							(0.514)
+time1	Time taken to complete Lift Game					-0.200	
+						(7.595)	
+11.race_seq1	race_seq1 = 11					0.410	
+						(0.449)	
+14.race_seq1	race_seq1 = 14					-0.048	
+						(0.463)	
+17.race_seq1	race_seq1 = 17					0.262	
+						(0.466)	
+11.race_seq2	race_seq2 = 11					0.729	
+						(0.467)	
+14.race_seq2	race_seq2 = 14					0.406	
+						(0.465)	
+17.race_seq2	race_seq2 = 17					0.497	
+						(0.459)	
+Constant	Constant	5.231**	4.705*	2.829	2.578	-1.109	-1.634
+		(2.566)	(2.578)	(2.527)	(2.540)	(2.794)	(2.804)
+							
+Observations		1,102	1,102	1,102	1,102	1,102	1,102
+R-squared		0.052	0.049	0.088	0.082	0.103	0.100
+Demog		Yes	Yes	Yes	Yes	Yes	Yes
+Cog and Edu		No	No	Yes	Yes	Yes	Yes
+NonCog and Pref		No	No	No	No	Yes	Yes
+Gender		Female	Female	Female	Female	Female	Female
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

@@ -1,0 +1,16 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+		male	male	female	female	nonworking_female	nonworking_female
+VARIABLES	LABELS	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income	IHS of annul household labor income
+							
+lift_most	BI Score	0.157		0.029		0.615**	
+		(0.102)		(0.118)		(0.256)	
+hor_pay_normal	HOR Score (standardized)		0.648***		0.526**		0.876**
+			(0.183)		(0.217)		(0.416)
+							
+Observations		2,782	2,782	2,461	2,461	1,011	1,011
+R-squared		0.051	0.058	0.148	0.148	0.191	0.193
+Demog		Yes	Yes	Yes	Yes	Yes	Yes
+Cog and Edu		Yes	Yes	Yes	Yes	Yes	Yes
+NonCog and Pref		Yes	Yes	Yes	Yes	Yes	Yes
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

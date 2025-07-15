@@ -1,0 +1,25 @@
+gender,measure,level,lb,mean,ub
+male,BI score,0,.72249186,.76279068,.8030895
+male,BI score,1,.74591416,.78901732,.83212054
+male,BI score,2+,.79547775,.83955222,.88362676
+male,HOR score,Bottom 1/3,.71257406,.75801748,.8034609
+male,HOR score,Middle 1/3,.7428093,.78612715,.829445
+male,HOR score,Top 1/3,.78882658,.82816899,.86751145
+male,Eyes Test score,Bottom 1/3,.74374217,.78717202,.83060187
+male,Eyes Test score,Middle 1/3,.76584202,.80662984,.84741765
+male,Eyes Test score,Top 1/3,.73445868,.77876109,.82306343
+male,IST Score,Bottom 1/3,.73037505,.77428573,.81819636
+male,IST Score,Middle 1/3,.73952878,.78167117,.82381356
+male,IST Score,Top 1/3,.77846152,.82043344,.86240536
+female,BI score,0,.61627054,.65948278,.70269495
+female,BI score,1,.54058117,.58897245,.63736373
+female,BI score,2+,.51457983,.57740587,.64023191
+female,HOR score,Bottom 1/3,.53476357,.58563536,.63650715
+female,HOR score,Middle 1/3,.59634376,.64560437,.69486499
+female,HOR score,Top 1/3,.56776661,.61702126,.66627598
+female,Eyes Test score,Bottom 1/3,.5236786,.5770393,.6304
+female,Eyes Test score,Middle 1/3,.5912677,.63840401,.68554026
+female,Eyes Test score,Top 1/3,.5776307,.62702703,.67642331
+female,IST Score,Bottom 1/3,.53403378,.58769232,.64135087
+female,IST Score,Middle 1/3,.5769611,.625,.6730389
+female,IST Score,Top 1/3,.58285773,.63116884,.6794799

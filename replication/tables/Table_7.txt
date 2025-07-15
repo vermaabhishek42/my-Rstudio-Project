@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	IHS of annul household labor income	IHS of annul household labor income
+					
+strategic	Strategic thinking skill	1.703***	-1.782**	0.781*	1.470**
+		(0.608)	(0.890)	(0.472)	(0.707)
+					
+Observations		2,088	2,204	1,876	1,644
+R-squared		0.009	0.054	0.041	0.102
+Demog		Yes	Yes	Yes	Yes
+Cog and Edu		Yes	Yes	Yes	Yes
+NonCog and Pref		Yes	Yes	Yes	Yes
+Gender		Male	Female	Male	Female
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

@@ -1,0 +1,15 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	s_laborinc_anypos	s_laborinc_anypos	s_laborinc_anypos	s_laborinc_anypos
+					
+lift_most	BI Score	-0.013		0.031*	
+		(0.018)		(0.016)	
+hor_pay_normal	HOR Score (standardized)		0.012		0.062**
+			(0.029)		(0.028)
+					
+Observations		938	938	822	822
+R-squared		0.041	0.045	0.112	0.109
+Demog		Yes	Yes	Yes	Yes
+Cog and Edu		Yes	Yes	Yes	Yes
+NonCog and Pref		Yes	Yes	Yes	Yes
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

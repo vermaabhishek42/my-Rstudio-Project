@@ -1,0 +1,21 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+		male	male	male	male	female	female	female	female
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income
+									
+1.bi_trio	3 equal-sized group of BI Level = 1, BI score = 1	0.319				-0.906***			
+		(0.357)				(0.347)			
+2.bi_trio	3 equal-sized group of BI Level = 2, BI score = 2+	0.894**				-1.149***			
+		(0.371)				(0.421)			
+lift_numwins	BI counting score		0.344**				-0.466**		
+			(0.156)				(0.185)		
+1.hor_pay_trio	3 equal-sized group of HOR Expected Payoff = 1, Middle 1/3			0.184				0.562	
+				(0.363)				(0.376)	
+2.hor_pay_trio	3 equal-sized group of HOR Expected Payoff = 2, Top 1/3			0.728**				-0.027	
+				(0.356)				(0.389)	
+task2_level	HOR Level				0.152*				-0.103
+					(0.087)				(0.095)
+									
+Observations		1,044	1,044	1,044	1,044	1,102	1,102	1,102	1,102
+R-squared		0.054	0.053	0.052	0.050	0.105	0.102	0.102	0.101
+Robust standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

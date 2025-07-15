@@ -1,0 +1,48 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income
+							
+lift_most	BI Score	0.429***		0.375**		0.372**	
+		(0.144)		(0.149)		(0.151)	
+hor_pay_normal	HOR Score (standardized)		0.681***		0.612**		0.580**
+			(0.240)		(0.248)		(0.249)
+2.age_grp	age_grp = 2, Age 55-59	-0.195	-0.173	-0.152	-0.134	-0.164	-0.169
+		(0.382)	(0.383)	(0.383)	(0.383)	(0.385)	(0.385)
+3.age_grp	age_grp = 3, Age 60-65	-1.261***	-1.252***	-1.198**	-1.196**	-1.104**	-1.195**
+		(0.468)	(0.468)	(0.471)	(0.471)	(0.473)	(0.475)
+chinese	Chinese	0.129	0.236	0.077	0.159	0.143	0.238
+		(0.504)	(0.497)	(0.501)	(0.495)	(0.502)	(0.510)
+marst	Married	-1.216*	-1.228*	-1.258*	-1.279*	-1.132	-1.132
+		(0.697)	(0.740)	(0.714)	(0.754)	(0.715)	(0.810)
+nliving	Number of Children	-0.123	-0.100	-0.124	-0.104	-0.131	-0.086
+		(0.145)	(0.146)	(0.146)	(0.146)	(0.146)	(0.147)
+sp_age2	Spouse's age	-0.033	-0.035	-0.035	-0.037	-0.045	-0.041
+		(0.032)	(0.032)	(0.031)	(0.032)	(0.031)	(0.032)
+sp_age99	Missing spouse's age or non-married	-1.218	-1.122	-1.117	-1.035	-0.512	-0.611
+		(1.646)	(1.670)	(1.635)	(1.659)	(1.626)	(1.705)
+edu_ter	Tertiary education			0.264	0.232	0.152	0.136
+				(0.299)	(0.297)	(0.303)	(0.303)
+ist	IST score			0.053	0.058	0.041	0.045
+				(0.038)	(0.037)	(0.038)	(0.038)
+eye_normal	Standardized values of eye_total			-0.104	-0.174	-0.269	-0.178
+				(0.372)	(0.376)	(0.372)	(0.380)
+fp_long	Financial Planning Horizon					-0.142	-0.233
+						(0.286)	(0.287)
+risk_general	Risk tolerance					0.059	0.058
+						(0.063)	(0.063)
+self_efficacy	Self-efficacy					0.039	0.048
+						(0.065)	(0.065)
+optimism	Personal Optimism					0.056	0.051
+						(0.065)	(0.065)
+time2	Time taken to complete Money Request Game						-2.050
+							(3.635)
+Constant	Constant	12.252***	12.362***	11.818***	11.928***	10.681***	11.212***
+		(1.842)	(1.866)	(1.891)	(1.918)	(2.128)	(2.235)
+							
+Observations		1,044	1,044	1,044	1,044	1,044	1,044
+R-squared		0.037	0.037	0.041	0.041	0.053	0.052
+Demog		Yes	Yes	Yes	Yes	Yes	Yes
+Cog and Edu		No	No	Yes	Yes	Yes	Yes
+NonCog and Pref		No	No	No	No	Yes	Yes
+Gender		Male	Male	Male	Male	Male	Male
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

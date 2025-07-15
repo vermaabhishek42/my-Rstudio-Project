@@ -1,0 +1,14 @@
+		(1)	(2)
+VARIABLES	LABELS	IHS of annul household labor income	IHS of annul household labor income
+			
+wife_lift	Wife's BI score	0.033	
+		(0.128)	
+wife_hor	Wife's HOR score (standardized)		0.173
+			(0.215)
+			
+Observations		138	138
+R-squared		0.301	0.337
+R Working		Yes	Yes
+SP Working		No	No
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

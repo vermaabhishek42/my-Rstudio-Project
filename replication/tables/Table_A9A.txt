@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income
+									
+lift_most	BI Score	0.696	0.243	0.185	0.128**	0.077*	0.037	0.046	0.028
+		(0.543)	(0.218)	(0.113)	(0.050)	(0.043)	(0.032)	(0.039)	(0.034)
+									
+Observations		1,044	1,044	1,044	1,044	1,044	1,044	1,044	1,044
+Demog		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Cog and Edu		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+NonCog and Pref		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Quantile		0.2	0.3	0.4	0.5	0.6	0.7	0.8	0.9
+Pseudo R2		0.0922	0.0365	0.0300	0.0364	0.0443	0.0551	0.0697	0.0871
+Robust standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

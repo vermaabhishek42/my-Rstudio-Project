@@ -1,0 +1,16 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income
+				
+lift_most	BI Score	-0.473***		-0.510***
+		(0.182)		(0.189)
+hor_pay_normal	HOR Score (standardized)		-0.006	0.226
+			(0.289)	(0.297)
+				
+Observations		1,102	1,102	1,102
+R-squared		0.103	0.100	0.109
+Demog		Yes	Yes	Yes
+Cog and Edu		Yes	Yes	Yes
+NonCog and Pref		Yes	Yes	Yes
+Gender		Female	Female	Female
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

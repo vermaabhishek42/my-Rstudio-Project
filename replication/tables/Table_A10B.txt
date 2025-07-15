@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)
+VARIABLES	LABELS	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income	Inverse hyperbolic sine transformation of annual own labor income
+								
+hor_pay_normal	HOR Score (standardized)	0.027	0.085	0.062	0.039	-0.036	-0.248***	-0.082
+		(0.443)	(0.365)	(0.331)	(0.173)	(0.130)	(0.088)	(0.063)
+								
+Observations		1,102	1,102	1,102	1,102	1,102	1,102	1,102
+Demog		Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Cog and Edu		Yes	Yes	Yes	Yes	Yes	Yes	Yes
+NonCog and Pref		Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Quantile		0.3	0.4	0.5	0.6	0.7	0.8	0.9
+Pseudo R2		0.00685	0.138	0.0669	0.0481	0.0484	0.0492	0.0604
+Robust standard errors in parentheses								
+*** p<0.01, ** p<0.05, * p<0.1								

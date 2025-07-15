@@ -1,0 +1,23 @@
+if the data set is not complete , figure out where to extract the data from , and include it in your replication code
+--------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+project management 
+work on multiple projects as update on the cv
+check the data sets
+create a checklist and get the free points for the presentation , and then focus on quality , and the level of Analysis
+30% quality and content
+70% of the marks to go as per the list
+
+tell how would you have worked on the chat gpt and what prompts would you give in order to check the codes and errors
+
+or how would this code be related to the other languages or tools
+
+
+----------------------------
+
+don't just use ggplot , but explain the functions apart from this 
+
+learning exp
+run r code
+or purpose some upgraded replication
